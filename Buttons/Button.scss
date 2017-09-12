@@ -1,0 +1,33 @@
+.btn-block {
+    display: block;
+    width: 960px;
+    height: 96px;
+    font-family: PingFangSC-Regular;
+    font-size: 36px;
+    border: 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn-inline {
+    width: 112px;
+    height: 60px;
+    font-size: 26px;
+    border: 0;
+    border-radius: 10px;
+}
+
+.btn-color {
+    background: #108EE9;
+    color: #fff;
+}
+
+.btn-minor-color {
+    background: #DDDDDD;
+    color: #000000
+}
+
+.btn-disabled {
+    color: #BBBBBB;
+    background: #DDDDDD;
+}
